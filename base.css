@@ -1,0 +1,103 @@
+body {
+  margin: 0;
+  padding: 0 0;
+  text-align: center;
+  background-color: #28877B;
+}
+
+body a {
+  text-decoration: none;
+}
+
+.purchase {
+}
+
+#payment {
+  border-style: solid;
+  border-color: #333;
+  border-width: 9px 0px 0 0;
+  margin: 70px;
+  color: #FFCA16;
+}
+
+#splash {
+  border-style: solid;
+  border-color: #333;
+  border-width: 9px 0px;
+  margin: 70px;
+  color: #FFCA16;
+}
+
+#splash h1 {
+  font-size: 3em;
+  letter-spacing: 0.1em;
+}
+
+#splash h5 {
+  font-size: 1.3em;
+}
+
+.splashnote {
+  background-color: #fafafa;
+}
+
+#container {
+  background-color: #fff;
+  margin: 0 auto;
+  width: 960px;
+  border: 1px solid #333;
+  font-family: 'Arvo', serif;
+}
+
+#movie-banner {
+  height: 30px;
+}
+
+#featured {
+  height: 1500px;
+  overflow: hidden;
+}
+
+.bakeryhome {
+  margin: 0 auto;
+  padding: 10px;
+  width: 300px;
+  background-color: #f0f0f0;
+}
+
+.map {
+  height: 200px;
+  background-color: #333;
+}
+
+.bakeryhome img {
+}
+
+#footnotes {
+  width: 100%;
+  float: left;
+  margin: 0 0 3em 0;
+  padding: 0;
+  list-style: none;
+  background-color: #f2f2f2;
+  border-bottom: 1px solid #ccc; 
+  border-top: 1px solid #ccc; 
+}
+
+#footnotes li {
+  float: left; 
+}
+
+#footnotes li a {
+  display: block;
+  padding: 8px 15px;
+  text-decoration: none;
+  font-weight: bold;
+  color: #069;
+  border-right: 1px solid #ccc; 
+}
+
+#footnotes li a:hover {
+  color: #c00;
+  background-color: #fff; 
+}
